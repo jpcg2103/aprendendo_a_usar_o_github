@@ -2,4 +2,6 @@
 - Igor modificou esse arquivo
 - Lucas passou por aqui 
 - Igor modificou esse arquivo branch 1
+- Tentando usar git
+
 
